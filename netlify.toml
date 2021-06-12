@@ -1,4 +1,6 @@
 [[redirects]]
-  from = "https://scientifly.com"
-  to = "https://www.scientifly.com/blog"
+  from = ""
+  to = "/index.html"
   status = 200
+
+ 
