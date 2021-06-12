@@ -1,4 +1,0 @@
-[[redirects]]
-  from = "https://scientifly.netlify.app/*"
-  to = "https://www.scientifly.com/:splat"
-  status = 200
