@@ -4,7 +4,7 @@ import { isAuth, one_tap_login, authenticate } from '../../actions/auth';
 import {  Grid } from '@material-ui/core';
 
 
-const Header = ({ isAuthenticated }) => {
+const Header = () => {
   const [user, setUser] = useState();
   const [isAuthenticated, setIsAuthenticated] = useState(false);
 
