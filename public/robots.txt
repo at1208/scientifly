@@ -2,9 +2,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host:https://scientifly.com
-
-Disallow: https://cms.readifly.com/api/*
+Host: https://scientifly.com
 
 # Sitemaps
-Sitemap:https://scientifly.com/server-sitemap.xml
+Sitemap: https://scientifly.com/server-sitemap.xml
