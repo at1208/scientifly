@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://scientifly.com
+Host: https://www.scientifly.com
 
 # Sitemaps
-Sitemap: https://scientifly.com/server-sitemap.xml
+Sitemap: https://www.scientifly.com/server-sitemap.xml
